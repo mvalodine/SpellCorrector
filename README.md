@@ -1,0 +1,2 @@
+# SpellCorrector
+Lab 2 - CS 240
